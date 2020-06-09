@@ -8,3 +8,4 @@ OC-SVM can be used for prediction:
 3. third boundary states how rapid it will go bad.
 
 # Author:
+Shrihari Muttagi
