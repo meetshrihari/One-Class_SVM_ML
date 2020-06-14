@@ -1,8 +1,8 @@
-<div></div>
+<div align='center'>
+  <h1>Awesome Anomaly Detection using One-Class SVM</h1>
+  <h3>One Class SVM learning and coding </h3>
 
-
-# Awesome Anomaly Detection using One-Class SVM
-One Class SVM learning and coding
+</div>
 
 # OC-SVM for prediction of Anomaly
 OC-SVM can be used for prediction:
