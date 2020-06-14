@@ -1,4 +1,4 @@
-# One-Class-SVM
+# Awesome Anomaly Detection using One-Class SVM
 One Class SVM learning and coding
 
 # OC-SVM for prediction of Anomaly
