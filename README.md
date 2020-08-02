@@ -1,7 +1,6 @@
 <div align='center'>
   <h1>Awesome Anomaly Detection</h1>
   <h3>One Class SVM learning and coding </h3>
-
 </div>
 
 # Data from
